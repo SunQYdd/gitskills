@@ -7,16 +7,16 @@
         <mxCell id="mVfD3yJDjocOhKavPHNd-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Initial SOC" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="mVfD3yJDjocOhKavPHNd-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Y_120Hz" vertex="1">
+        <mxCell id="mVfD3yJDjocOhKavPHNd-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="γ_120Hz" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="425" as="geometry" />
         </mxCell>
-        <mxCell id="mVfD3yJDjocOhKavPHNd-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Y_HDR" vertex="1">
+        <mxCell id="mVfD3yJDjocOhKavPHNd-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="γ_HDR" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="345" as="geometry" />
         </mxCell>
         <mxCell id="mVfD3yJDjocOhKavPHNd-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="入 (brightness sensitivity)" vertex="1">
           <mxGeometry height="30" width="140" x="10" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="mVfD3yJDjocOhKavPHNd-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n (capacity elasticity)" vertex="1">
+        <mxCell id="mVfD3yJDjocOhKavPHNd-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="η (capacity elasticity)" vertex="1">
           <mxGeometry height="30" width="140" x="10" y="185" as="geometry" />
         </mxCell>
         <mxCell id="mVfD3yJDjocOhKavPHNd-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Baseline current" vertex="1">
